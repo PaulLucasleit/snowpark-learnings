@@ -27,3 +27,15 @@ GRANT IMPORTED PRIVILEGES ON DATABASE SNOWFLAKE_SAMPLE_DATA TO ROLE PUBLIC;
 ```
 
 More details on the Snowflake sample data can be found [here](https://docs.snowflake.com/en/user-guide/sample-data-using)
+
+
+### Examples Followed
+
+1. Follow along with youtube vids  
+   [Snowpark For Python | Snowflake Tutorial](https://youtu.be/udcFnIvXFnE)  
+   [Intermediate Data Transformations in Snowpark for Python | Snowflake Tutorial](https://youtu.be/kKOMXL6U3AE)  
+   [Advanced Data Transformations in Snowpark for Python | Snowflake Tutorial](https://youtu.be/WVUo_NCWclg)
+
+
+2. Snowflake Demo -  
+   [Machine Learning with Snowpark Python](https://quickstarts.snowflake.com/guide/getting_started_snowpark_machine_learning/?index=..%2F..index#0)
