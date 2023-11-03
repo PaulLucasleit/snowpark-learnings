@@ -39,3 +39,8 @@ More details on the Snowflake sample data can be found [here](https://docs.snowf
 
 2. Snowflake Demo -  
    [Machine Learning with Snowpark Python](https://quickstarts.snowflake.com/guide/getting_started_snowpark_machine_learning/?index=..%2F..index#0)
+
+
+### Useful Resources
+
+* [Better Practices with Snowpark](https://medium.com/snowflake/lets-talk-about-some-better-practices-with-snowpark-python-python-udfs-and-stored-procs-903314944402)
